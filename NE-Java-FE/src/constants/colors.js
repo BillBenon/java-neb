@@ -1,14 +1,14 @@
 const COLOR_PALETTE = {
-    GRAY: '#b0b0b0',
-    WHITE: '#fff',
-    BLACK: '#000',
-    DANGER: '#b03747',
-    PRIMARY: 'dodgerblue',
-    LIGHT: '#f0f0f0',
-    DODGERBLUE: 'dodgerblue',
-    GREEN: '#3dba63',
-    LIGHT_DARK: '#5d6066',
-    YELLOW: 'yellow'
+  GRAY: "#DFCFBE",
+  WHITE: "#fff",
+  BLACK: "#000",
+  DANGER: "#FF6F61",
+  PRIMARY: "#229F97",
+  LIGHT: "#f0f0f0",
+  DODGERBLUE: "#34568B",
+  GREEN: "#88B04B",
+  LIGHT_DARK: "#5d6066",
+  YELLOW: "#EFC050",
 };
 
 export default COLOR_PALETTE;
